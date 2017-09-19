@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+_build
+npm-debug.log
+nbproject
+.idea/
+requests.log
+.env
+newrelic_agent.log
+variables.env

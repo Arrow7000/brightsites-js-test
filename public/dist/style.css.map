@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./public/sass/partials/_main.scss"],"names":[],"mappings":"AAAA;EACC,kBAAiB;EACjB,eAAc,EACd","file":"style.css","sourcesContent":["body {\n\tmax-width: 1000px;\n\tmargin: 0 auto;\n}\n\n\n// WEBPACK FOOTER //\n// ./public/sass/partials/_main.scss"],"sourceRoot":""}
