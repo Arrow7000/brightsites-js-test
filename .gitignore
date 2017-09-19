@@ -7,4 +7,3 @@ nbproject
 requests.log
 .env
 newrelic_agent.log
-variables.env
