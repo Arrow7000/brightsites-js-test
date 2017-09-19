@@ -73,7 +73,10 @@
 "use strict";
 
 
-console.log('No JavaScript code added yet.');
+var gallery = document.getElementById("gallery");
+
+var images = gallery.childNodes;
+console.log(images);
 
 /***/ }),
 /* 1 */

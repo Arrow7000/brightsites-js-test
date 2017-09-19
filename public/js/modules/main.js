@@ -1,1 +1,4 @@
-console.log('No JavaScript code added yet.');
+const gallery = document.getElementById("gallery");
+
+const images = gallery.childNodes;
+console.log(images);

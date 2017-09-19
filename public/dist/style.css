@@ -2,4 +2,32 @@ body {
   max-width: 1000px;
   margin: 0 auto; }
 
+#gallery {
+  position: relative; }
+
+.gallery-img {
+  display: inline-block;
+  max-height: 50px; }
+
+#gallery-img-selected {
+  width: 100%;
+  display: block; }
+
+.left,
+.right {
+  background-color: rgba(100, 100, 100, 0.5);
+  width: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: absolute;
+  top: 45%;
+  z-index: 1;
+  text-align: center; }
+
+.left {
+  left: 20px; }
+
+.right {
+  right: 20px; }
+
 /*# sourceMappingURL=style.css.map*/
